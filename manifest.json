@@ -36,6 +36,13 @@
 				}
 			}
 		},
+		"config": {
+			"sci": {
+				"useOverlay": true,
+				"sci_tenant": "https://a7pdesqly.accounts.ondemand.com",
+				"sap_ids_path": "/ui/resources/javascripts/SAP_IDS.js"
+			}
+		},
 		"componentName": "redfig.flp.scpauthpopup"
 	},
 	"sap.flp": {
