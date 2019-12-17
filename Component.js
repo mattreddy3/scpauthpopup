@@ -3,7 +3,7 @@ sap.ui.define([
 	"sap/ui/dom/includeScript"
 ], function (UIComponent, includeScript) {
 	"use strict";
-
+	// this is a comment
 	return UIComponent.extend("redfig.flp.scpauthpopup.Component", {
 
 		metadata: {
